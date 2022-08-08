@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>897869428598-t6lgr9rgk5ekkebs6cuhcb3aikjdc169.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.897869428598-t6lgr9rgk5ekkebs6cuhcb3aikjdc169</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjTngiN407y9ZEQFzEQMlSIxovoSrR3g4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>897869428598</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lbtek.tourismodriver</string>
+	<key>PROJECT_ID</key>
+	<string>tourismoph-b0bc3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tourismoph-b0bc3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:897869428598:ios:fc138c8f231703784f2c57</string>
+	<key>DATABASE_URL</key>
+	<string>https://tourismoph-b0bc3-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

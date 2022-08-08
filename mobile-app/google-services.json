@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "897869428598",
+    "firebase_url": "https://tourismoph-b0bc3-default-rtdb.firebaseio.com",
+    "project_id": "tourismoph-b0bc3",
+    "storage_bucket": "tourismoph-b0bc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897869428598:android:bfc62770c24a5c2e4f2c57",
+        "android_client_info": {
+          "package_name": "com.lbtek.tourismodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897869428598-qhg21nc0f0ea5307hpgcacm814ok2cmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAVq7ARiBDkKJ5ycOBW5GrvBEVZMbvVSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897869428598-qhg21nc0f0ea5307hpgcacm814ok2cmv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "897869428598-3ifnmu9phbgcmf6ke33j40um7if53pce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lbtek.tourismotourist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897869428598:android:93f1c36d11c3e3754f2c57",
+        "android_client_info": {
+          "package_name": "com.lbtek.tourismotourist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897869428598-qhg21nc0f0ea5307hpgcacm814ok2cmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAVq7ARiBDkKJ5ycOBW5GrvBEVZMbvVSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897869428598-qhg21nc0f0ea5307hpgcacm814ok2cmv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "897869428598-3ifnmu9phbgcmf6ke33j40um7if53pce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lbtek.tourismotourist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
