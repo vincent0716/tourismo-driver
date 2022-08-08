@@ -1,16 +1,16 @@
 {
-    "app_name": "Your App Name",
+    "app_name": "Tourismo Driver",
     "app_description": "Your App Description Here",
-    "app_identifier": "com.something.app",
+    "app_identifier": "com.lbtek.tourismodriver",
     "ios_app_version": "1.0.0",
     "android_app_version": 100,
     "facebookAppId": "12345",
-    "firebaseProjectId": "XXXXXXXXXXXXXXX",
+    "firebaseProjectId": "tourismoph-b0bc3",
     "googleApiKeys": {
-        "ios": "XXXXXXXXXXXXXXX",
-        "android": "XXXXXXXXXXXXXXX",
-        "web": "XXXXXXXXXXXXXXX",
-        "server": "XXXXXXXXXXXXXXX"
+        "ios": "AIzaSyCjh5lmz5CQu1MKjEKaLa552Cq5fCXTlCo",
+        "android": "AIzaSyCjh5lmz5CQu1MKjEKaLa552Cq5fCXTlCo",
+        "web": "AIzaSyCjh5lmz5CQu1MKjEKaLa552Cq5fCXTlCo",
+        "server": "AIzaSyCjh5lmz5CQu1MKjEKaLa552Cq5fCXTlCo"
     },
     "CodeCanyon_Purchase_Code": ""
 }
